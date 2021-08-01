@@ -12,5 +12,5 @@
 
 
 **Live Site**
-- Netlift [Netlify](https://frankie-ar.netlify.app/)
-- Github [Github](https://ashish-patwal.github.io/FrankieAR/)
+- [Netlify](https://frankie-ar.netlify.app/)
+- [Github](https://ashish-patwal.github.io/FrankieAR/)
