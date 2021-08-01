@@ -1,0 +1,41 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "ferret_file.moc3",
+		"Textures": [
+			"ferret_file.1024/texture_00.png",
+			"ferret_file.1024/texture_01.png"
+		],
+		"DisplayInfo": "ferret_file.cdi3.json",
+		"Motions": {
+			"Idle": [
+				{
+					"File": "motion/idle.motion3.json"
+				}
+			],
+			"TapBody": [
+				{
+					"File": "motion/tapbody.motion3.json"
+				}
+			]
+		}
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		},
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
+		}
+	],
+	"HitAreas": [
+		{
+			"Id": "HitArea",
+			"Name": "Body"
+		}
+	]
+}

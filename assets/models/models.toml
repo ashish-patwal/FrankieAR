@@ -1,0 +1,9 @@
+[[models]]
+name = "ferret_file"
+scale = 4
+[models.canvasOffset]
+x = -0.10
+[models.position]
+y = -0.35
+[models.hitInfo]
+HitArea = "TapBody"

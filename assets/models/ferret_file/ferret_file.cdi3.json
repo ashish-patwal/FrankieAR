@@ -1,0 +1,69 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "facemove",
+			"GroupId": "",
+			"Name": "Face Move"
+		},
+		{
+			"Id": "ParamEyeLOpen",
+			"GroupId": "",
+			"Name": "EyeL Open"
+		},
+		{
+			"Id": "ParamEyeROpen",
+			"GroupId": "",
+			"Name": "EyeR Open"
+		},
+		{
+			"Id": "rightear",
+			"GroupId": "",
+			"Name": "Right Ear"
+		},
+		{
+			"Id": "leftear",
+			"GroupId": "",
+			"Name": "Left Ear"
+		},
+		{
+			"Id": "ParamMouthForm",
+			"GroupId": "",
+			"Name": "Mouth Form"
+		},
+		{
+			"Id": "updown",
+			"GroupId": "",
+			"Name": "Up and Down"
+		},
+		{
+			"Id": "Param",
+			"GroupId": "",
+			"Name": "Body Tilt"
+		},
+		{
+			"Id": "tailwiggle",
+			"GroupId": "",
+			"Name": "Tail Wiggle"
+		}
+	],
+	"ParameterGroups": [],
+	"Parts": [
+		{
+			"Id": "paws",
+			"Name": "paws"
+		},
+		{
+			"Id": "faceparts",
+			"Name": "Face"
+		},
+		{
+			"Id": "eyes",
+			"Name": "eyes"
+		},
+		{
+			"Id": "ears",
+			"Name": "ears"
+		}
+	]
+}
