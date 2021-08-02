@@ -1,6 +1,6 @@
 [[models]]
 name = "ferret_file"
-scale = 4
+scale = 2
 [models.canvasOffset]
 x = -0.10
 [models.position]
