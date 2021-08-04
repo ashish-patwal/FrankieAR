@@ -1,6 +1,6 @@
 # FrankieAR
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/d663f0af-1364-407b-a6c8-719758707575/deploy-status)](https://app.netlify.com/sites/frankie-ar/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d663f0af-1364-407b-a6c8-719758707575/deploy-status)](https://frankie-ar.netlify.app/)
 
 ### Click cool photos with Frankie the system ferret*
 
